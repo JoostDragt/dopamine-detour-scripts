@@ -19,6 +19,14 @@ Each script uses:
 
 Target length per video: **5–10 minutes** (~150 spoken words per minute).
 
+## Visual style
+
+Hand-drawn **stick-figure doodle** (whiteboard-explainer look): black marker on white, with a
+single **dopamine-gold/yellow** accent. Recurring protagonist **"Sam"** (a stick figure with a small
+hair-tuft) is the viewer's stand-in, plus supporting cast (the bespectacled "Expert", a crowd,
+"Brain-Buddy"). Whole video runs at **12 fps**, animated "on twos" for the hand-drawn stutter.
+See [`scripts/01-PRODUCTION-PACKAGE.md`](scripts/01-PRODUCTION-PACKAGE.md) for the full style + character bible.
+
 ## Series roadmap
 
 ### Phase 1 — Foundation (what & why)
