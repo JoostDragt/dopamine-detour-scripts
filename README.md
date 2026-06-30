@@ -31,7 +31,7 @@ See [`scripts/01-PRODUCTION-PACKAGE.md`](scripts/01-PRODUCTION-PACKAGE.md) for t
 
 ### Phase 1 — Foundation (what & why)
 1. **What ADHD (and "ADD") actually is** ✅ → [`scripts/01-what-is-adhd-and-add.md`](scripts/01-what-is-adhd-and-add.md)
-2. The dopamine engine — why the ADHD brain hunts for stimulation
+2. **The dopamine engine — why the ADHD brain hunts for stimulation** ✅ → [`scripts/02-the-dopamine-engine.md`](scripts/02-the-dopamine-engine.md)
 3. The full spectrum: inattentive, hyperactive & combined
 
 ### Phase 2 — Recognition (seeing yourself)
